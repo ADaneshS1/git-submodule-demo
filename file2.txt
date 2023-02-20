@@ -1,0 +1,2 @@
+"File 2"
+"Teks file 2 baru"
