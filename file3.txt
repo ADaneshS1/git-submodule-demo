@@ -1,1 +1,2 @@
 Baris barus
+Menambah baris 2 di file 2
