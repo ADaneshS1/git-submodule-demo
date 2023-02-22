@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Baris barus
 Menambah baris 2 di file 3
+=======
+Baris barus
+>>>>>>> parent of d5b23c2 (Menambah baris baru file 3)
