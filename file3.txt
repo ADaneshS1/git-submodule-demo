@@ -1,2 +1,2 @@
 Baris barus
-Menambah baris 2 di file 2
+Menambah baris 2 di file 3
